@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environments
+env/
+venv/
+.venv/
+.env
+
+# Pytest
+.pytest_cache/
+
+# Packaging
+build/
+dist/
+*.egg-info/
+
+# Type checkers / caches
+.mypy_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# IDEs and OS
+.vscode/
+.idea/
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
